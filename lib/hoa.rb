@@ -3,6 +3,8 @@ BASE_HOA = {
   :third_earthers => ["Lion-O", "Cheetara", "Mumm-Ra (the ever-living)"],
   :jetsons => ["George", "Jane", "Judy", "Elroy"]
 }
+  BASE_HOA[:chipmunks][2] = "Dave"
+  BASE_HOA
 
 
 def add_character(show, name)
