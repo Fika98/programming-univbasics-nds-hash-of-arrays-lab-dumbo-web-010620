@@ -5,7 +5,7 @@ BASE_HOA = {
   
 }
   
-  BASE_HOA[:third_earthers] << "Snarf"
+
   
   
 
