@@ -13,7 +13,7 @@ BASE_HOA = {
 def add_character(show, name)
   # Write your implementation here
   # Should return the array of the 'show' argument
-  name => show
+  
   
 end
-add_character(["George", "Jane", "Judy", "Elroy"],jetsons)
+
